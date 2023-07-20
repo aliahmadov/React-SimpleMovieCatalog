@@ -1,0 +1,19 @@
+
+
+.movieList{
+    display:flex;
+    background-color:black;
+    padding:40px;
+    justify-content:space-evenly;
+
+}
+
+
+
+
+@media (max-width:900px)
+{
+    .movieList{
+        flex-direction: column;
+    }
+}

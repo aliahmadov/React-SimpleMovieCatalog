@@ -1,0 +1,16 @@
+
+
+
+.navBar{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100%;
+    padding: 1px;
+    border:1px solid whitesmoke
+}
+
+.header{
+    font-size: 3em;
+    font-weight: bold;
+}
